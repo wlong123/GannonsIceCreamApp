@@ -1,4 +1,4 @@
-package com.gannonsicecreamapp;
+package com.gannons;
 
 import android.app.Application;
 

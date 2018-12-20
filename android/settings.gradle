@@ -1,3 +1,3 @@
-rootProject.name = 'GannonsIceCreamApp'
+rootProject.name = 'gannons'
 
 include ':app'

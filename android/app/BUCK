@@ -45,12 +45,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.gannonsicecreamapp",
+    package = "com.gannons",
 )
 
 android_resource(
     name = "res",
-    package = "com.gannonsicecreamapp",
+    package = "com.gannons",
     res = "src/main/res",
 )
 

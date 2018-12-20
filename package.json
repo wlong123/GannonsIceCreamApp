@@ -1,5 +1,5 @@
 {
-  "name": "GannonsIceCreamApp",
+  "name": "gannons",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,23 +7,14 @@
     "test": "jest"
   },
   "dependencies": {
-    "lodash": "^4.17.10",
-    "react": "16.4.1",
-    "react-native": "^0.57.8",
-    "react-native-camera": "^1.2.0",
-    "react-native-elements": "^0.19.1",
-    "react-native-firebase": "^4.3.8",
-    "react-native-qrcode": "^0.2.7",
-    "react-native-qrcode-scanner": "^1.0.1",
-    "react-native-vector-icons": "^5.0.0",
-    "react-navigation": "^2.11.2",
-    "tcomb-form-native": "^0.6.15"
+    "react": "16.6.3",
+    "react-native": "0.57.8"
   },
   "devDependencies": {
-    "babel-jest": "23.4.2",
-    "babel-preset-react-native": "^5",
-    "jest": "23.5.0",
-    "react-test-renderer": "16.4.1"
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.48.5",
+    "react-test-renderer": "16.6.3"
   },
   "jest": {
     "preset": "react-native"
