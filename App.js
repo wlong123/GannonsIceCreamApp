@@ -17,8 +17,8 @@ import { createBottomTabNavigator, createAppContainer } from 'react-navigation';
 
 export default createAppContainer(createBottomTabNavigator(
   {
-    Home: Home,
     Flavors: Flavors,
+    Home: Home,
     Login: LoginContainer
   },
   {

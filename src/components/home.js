@@ -13,8 +13,7 @@ export default class Home extends Component {
     return (
       <View style={styles.container}>
         <Image style={{ alignSelf: 'center' }} source={require('./../images/gannons_logo.png')} />
-        <Text style={styles.welcome}>Welcome to Gannons Ice Cream Shop!</Text>
-        <Text style={styles.instructions}>To get started, edit App.js</Text>
+        <Text style={styles.welcome}>Welcome to Gannon's Isle!</Text>
         <Text style={styles.instructions}>{instructions}</Text>
       </View>
     );
